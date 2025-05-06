@@ -5,13 +5,6 @@
 </center>
 
 ## <span style="color: #32ae62;">Features</span>
-
-- Cleaner UI
-- Better Window Manager
-- App Store
-- A brand new terminal
-- And lots more!
-
 ## <span style="color: #32ae62;">Setup</span>
 
 To get started its pretty easy you need pnpm which can be installed by running: `npm i -g pnpm` and then just need to the run following command
